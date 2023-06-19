@@ -1,5 +1,5 @@
 <?php  
-	$servername = "localhost";
+	$servername = "https://derry32.github.io/bajaringan/";
 	$username = "root";
 	$password = "";
 	$dbname = "readmore";
